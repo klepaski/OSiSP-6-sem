@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Dll1.cpp
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека D:\3\OSiSP\OSaSP-2-master\OSaSP-2-master\lab_01\Dll1\Debug\Dll1.lib и объект D:\3\OSiSP\OSaSP-2-master\OSaSP-2-master\lab_01\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> D:\3\OSiSP\OSaSP-2-master\OSaSP-2-master\lab_01\Dll1\Debug\Dll1.dll
