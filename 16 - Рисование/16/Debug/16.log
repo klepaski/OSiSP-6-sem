@@ -1,0 +1,4 @@
+﻿  16.cpp
+d:\3\osisp\16\16\16.cpp(108): warning C4101: wmEvent: неиспользованная локальная переменная
+d:\3\osisp\16\16\16.cpp(108): warning C4101: wmId: неиспользованная локальная переменная
+  16.vcxproj -> D:\3\OSiSP\16\Debug\16.exe
