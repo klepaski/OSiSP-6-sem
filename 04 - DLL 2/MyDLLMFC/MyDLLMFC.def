@@ -1,0 +1,13 @@
+﻿; MyDLLMFC.def: объявляет параметры модуля для библиотеки DLL.
+
+LIBRARY
+       MyDLLMFC
+
+
+EXPORTS
+    ; Сюда можно направлять явные операции экспорта
+	SquareInt @1
+	SendMessageNumber @2
+	Sum @3
+	Mul @4
+	Div @5
