@@ -1,0 +1,4 @@
+﻿  11-task1.cpp
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task1\11-task1.cpp(21): warning C4101: fp: неиспользованная локальная переменная
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task1\11-task1.cpp(50): warning C4101: fp: неиспользованная локальная переменная
+  11-task1.vcxproj -> D:\3\OSiSP\OSaSP-2-master\8 - АсинхПроц\Debug\11-task1.exe

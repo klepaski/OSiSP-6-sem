@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  11-task2.cpp
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task2\11-task2.cpp(16): warning C4101: fp: неиспользованная локальная переменная
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task2\11-task2.cpp(47): warning C4101: fp: неиспользованная локальная переменная
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task2\11-task2.cpp(74): warning C4101: IDThread2: неиспользованная локальная переменная
+d:\3\osisp\osasp-2-master\8 - асинхпроц\11-task2\11-task2.cpp(72): warning C4101: hThread2: неиспользованная локальная переменная
+  11-task2.vcxproj -> D:\3\OSiSP\OSaSP-2-master\8 - АсинхПроц\Debug\11-task2.exe
